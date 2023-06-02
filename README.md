@@ -1,2 +1,2 @@
-# test_task_binary_classification
-test_task_binary_classification in python using PyCaret
+# binary_classification
+binary_classification in python using PyCaret
